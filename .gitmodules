@@ -1,0 +1,3 @@
+[submodule "Legolas"]
+	path = Legolas
+	url = https://github.com/alessandroCassani/Legolas.git
